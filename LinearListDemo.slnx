@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LinearListDemo.App/LinearListDemo.App.csproj" />
+  <Project Path="LinearListModule/LinearListModule.csproj" />
+</Solution>

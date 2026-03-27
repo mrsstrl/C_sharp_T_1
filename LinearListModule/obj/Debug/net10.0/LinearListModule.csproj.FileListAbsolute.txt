@@ -1,0 +1,11 @@
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/bin/Debug/net10.0/LinearListModule.deps.json
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/bin/Debug/net10.0/LinearListModule.dll
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/bin/Debug/net10.0/LinearListModule.pdb
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/obj/Debug/net10.0/LinearListModule.GeneratedMSBuildEditorConfig.editorconfig
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/obj/Debug/net10.0/LinearListModule.AssemblyInfoInputs.cache
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/obj/Debug/net10.0/LinearListModule.AssemblyInfo.cs
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/obj/Debug/net10.0/LinearListModule.csproj.CoreCompileInputs.cache
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/obj/Debug/net10.0/LinearListModule.dll
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/obj/Debug/net10.0/refint/LinearListModule.dll
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/obj/Debug/net10.0/LinearListModule.pdb
+/home/artyom/Projects/DotNet_Maria/1/LinearListModule/obj/Debug/net10.0/ref/LinearListModule.dll

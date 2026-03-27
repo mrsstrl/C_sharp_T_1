@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qz6NDB/A2pI=",
+  "success": true,
+  "projectFilePath": "/home/artyom/Projects/DotNet_Maria/1/LinearListDemo.App/LinearListDemo.App.csproj",
+  "expectedPackageFiles": [
+    "/tmp/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.4/microsoft.windowsdesktop.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
